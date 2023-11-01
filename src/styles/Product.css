@@ -1,0 +1,14 @@
+.pro-1{
+    height: 300px;
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.pro-2{
+    display: flex;
+    justify-content: center;
+}
+.pro-3{
+    background-color: black;
+}
+

@@ -1,0 +1,35 @@
+*{ 
+    margin: 0px;
+    padding: 0px;
+    background-color:#121212; 
+    color: white;
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+    background-color: #121212;
+    color: white;
+    
+}
+
+.nav-1{
+    padding: 10px;
+}
+
+:link{
+    text-decoration: none;
+}
+
+.nav-8{
+    color: white;
+}
+
+.nav-8:hover{
+    
+    color: greenyellow;
+}
+
+.nav-8.active{
+    color: rgb(255, 153, 0);
+}
